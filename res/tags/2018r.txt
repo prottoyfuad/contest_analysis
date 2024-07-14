@@ -1,0 +1,12 @@
+10
+a combinatorics constructive
+b numeric dp
+c numeric
+d constructive lp
+e constructive
+f graph data-structure
+g graph data-structure
+h constructive numeric
+i geometry
+j giveaway
+

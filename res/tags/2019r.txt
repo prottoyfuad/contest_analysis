@@ -1,0 +1,12 @@
+10
+a constructive data-structure
+b constructive
+c probability fft
+d combinatorics data-structure
+e graph dp
+f numeric
+g dp data-structure
+h graph
+i geometry
+j giveaway
+

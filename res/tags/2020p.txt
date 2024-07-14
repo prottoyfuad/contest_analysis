@@ -1,0 +1,12 @@
+10
+a geometry probability
+b dp math
+c string data-structure
+d constructive combinatorics
+e constructive
+f numeric
+g string dp sqrt-decomp
+h geometry
+i geometry math
+j giveaway
+

@@ -1,0 +1,11 @@
+9
+a giveaway
+b constructive
+c math geometry
+d numeric
+e constructive
+f dp probability graph
+g constructive
+h constructive combinatorics
+i constructive
+

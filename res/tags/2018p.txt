@@ -1,0 +1,12 @@
+10
+a giveaway
+b constructive
+c numeric
+d numeric
+e dp combinatorics
+f string
+g numeric
+h dp combinatorics
+i string
+j graph
+

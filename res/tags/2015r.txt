@@ -1,0 +1,12 @@
+10
+a constructive
+b constructive
+c graph data-structure
+d constructive
+e numeric
+f constructive
+g constructive geometry
+h numeric fft
+i dp
+j math geometry calculus
+

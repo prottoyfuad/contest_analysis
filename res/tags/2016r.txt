@@ -1,0 +1,13 @@
+11
+a constructive
+b bitwise constructive
+c probability geometry
+d constructive
+e constructive
+f numeric
+g bitwise numeric sqrt-decomp
+h constructive
+i graph probability
+j numeric combinatorics
+k dp constructive
+

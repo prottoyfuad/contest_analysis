@@ -1,0 +1,12 @@
+10
+a constructive data-structure
+b combinatorics
+c constructive
+d graph data-structure
+e constructive numeric string
+f constructive
+g dp
+h dp graph
+i numeric fft
+j math
+

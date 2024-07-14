@@ -1,0 +1,12 @@
+10
+a string constructive
+b bitwise constructive
+c graph dp combinatorics
+d lp flow
+e geometry
+f constructive
+g dp combinatorics
+h constructive
+i geometry  
+j numeric constructive
+
